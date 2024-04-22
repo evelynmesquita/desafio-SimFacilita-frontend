@@ -1,4 +1,4 @@
-# SIM Facilita - Rede Social 🌟
+# Projeto Sim Facilita - Frontend 🌟
 
 ## Funcionalidades da Plataforma
 
